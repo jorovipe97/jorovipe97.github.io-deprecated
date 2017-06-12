@@ -7,9 +7,4 @@ twitter_username: gamebite10
 
 
 markdown: kramdown
-# Build settings
-kramdown:
-  syntax_highlighter_opts:
-    block:
-      line_numbers: true
 highlighter: rouge
