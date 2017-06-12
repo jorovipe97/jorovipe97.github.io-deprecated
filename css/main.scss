@@ -1,3 +1,10 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+//Import
+@import "base", "typography", "layout", "syntax";
+
 body {
     margin: 60px auto;
     width: 70%;
