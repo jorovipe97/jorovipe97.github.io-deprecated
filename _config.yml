@@ -1,9 +1,21 @@
 #theme: jekyll-theme-cayman
 name: Jose Villalobos
+short: I am Jose #Short description
+large: Graphic and web developer, I don`t happy until you become happy. #Large description
+# No estoy feliz hasta que el problema por el cual me contrataste este bien solucionado.
+
+# Location
+city: Medellin
+state: Antioquia
+country: Colombia
+
+# Social networks
 email: jorovipe@gmail.com
 linkedin_username: ""
 github_username: jorovipe97
 twitter_username: gamebite10
+facebook_username: ""
+gplus_username: ""
 
 
 # Jekyll 3 now only supports Kramdown for Markdown
