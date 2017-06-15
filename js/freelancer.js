@@ -8,7 +8,7 @@
         var $anchor = $(this);
         $('html, body').stop().animate({
             scrollTop: ($($anchor.attr('href')).offset().top - 50)
-        }, 1000, 'easeOutExpo');
+        }, 400, 'easeOutExpo');
         event.preventDefault();
     });
 
